@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.moveup.simples.app-mergeDebugResources-42:/layout/activity_detalhes.xml",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_detalhes.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-mergeDebugResources-42:/layout/activity_cadastro.xml",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-mergeDebugResources-42:/layout/item_exercicio.xml",
+        "source": "com.moveup.simples.app-main-45:/layout/item_exercicio.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.moveup.simples.app-debug-43:/layout_activity_cadastro.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/xml_regras_backup.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/xml/regras_backup.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_mascote.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_mascote.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_logo.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_logo.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/layout_item_exercicio.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/layout/item_exercicio.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_agachamento.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_agachamento.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_banner.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_banner.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable_ic_voltar.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable/ic_voltar.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/layout_activity_detalhes.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/layout/activity_detalhes.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable_ic_exercicio.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable/ic_exercicio.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable_ic_moveup.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable/ic_moveup.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_mascote_feminina.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_mascote_feminina.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable-nodpi_img_rosca.png.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable-nodpi/img_rosca.png"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/drawable_fundo_imagem.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/drawable/fundo_imagem.xml"
+    },
+    {
+        "merged": "com.moveup.simples.app-debug-43:/raw_manter_imagens.xml.flat",
+        "source": "com.moveup.simples.app-main-45:/raw/manter_imagens.xml"
+    }
+]
