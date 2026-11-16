@@ -1,11 +1,11 @@
-#Sun Nov 15 23:56:03 BRT 2026
-base.0=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.3=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.4=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.5=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.6=C\:\\Users\\Marcia\\Downloads\\dsasg\\MoveUP_Simples_PTBR\\MoveUP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Mon Nov 16 09:59:05 BRT 2026
+base.0=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.3=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.4=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.5=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+base.6=/home/aluno/AndroidStudioProjects/Projeto-DMO1/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=10/classes.dex

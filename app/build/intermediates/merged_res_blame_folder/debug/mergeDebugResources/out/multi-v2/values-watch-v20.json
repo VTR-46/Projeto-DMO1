@@ -4,7 +4,7 @@
             "outputFile": "com.moveup.simples.app-mergeDebugResources-41:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Marcia\\.gradle\\caches\\8.11.1\\transforms\\66e3b401b5941ec9c78e92deb61761b5\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "/home/aluno/.gradle/caches/8.10.2/transforms/0acbd24059e3845ea179709592c88a63/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
